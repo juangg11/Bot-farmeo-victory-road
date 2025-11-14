@@ -26,7 +26,3 @@ El bot comenzará a funcionar automáticamente.
 
 NO toques el ratón ni el teclado mientras el bot está funcionando. 
 El bot farmeará gachapones de forma automática rindiéndose en la segunda parte para ir más rápido. 
-
-
-# Detener el Bot
-Para detener el bot pulsa la tecla F8. 
